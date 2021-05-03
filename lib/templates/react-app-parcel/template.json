@@ -1,4 +1,5 @@
 {
-    "name": "react-app-parcel",
+    "name": "React app with parcel",
+    "value": "react-app-parcel",
     "description": "Basic react app with parcel"
 }

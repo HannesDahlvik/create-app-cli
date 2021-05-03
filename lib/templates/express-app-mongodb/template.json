@@ -1,4 +1,5 @@
 {
-    "name": "express-app-mongodb",
+    "name": "Express app with mongodb",
+    "value": "express-app-mongodb",
     "description": "Basic express app with mongodb connection"
 }
