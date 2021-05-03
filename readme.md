@@ -16,7 +16,7 @@ If you want you can rename the folder to `` create-app ``, this will make the co
 Then cd into the project
 `` cd .\create-app\ `` and run `` yarn `` or `` npm install `` which ever you prefer
 
-To install the cli tool globally run `` cd .. `` then run `` npm install -g create-app ``
+To install the cli tool globally run `` cd .. `` then run `` npm install -g .\create-app\ ``
 
 ## Usage
 
