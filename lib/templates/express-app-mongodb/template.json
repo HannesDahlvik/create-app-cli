@@ -1,4 +1,4 @@
 {
-    "name": "react-app-parcel",
-    "description": "Basic react app with parcel"
+    "name": "express-app-mongodb",
+    "description": "Basic express app with mongodb connection"
 }
